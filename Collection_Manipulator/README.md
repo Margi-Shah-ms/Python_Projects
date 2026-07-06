@@ -142,8 +142,3 @@ Student-Data-Organizer/
 - Command Line Interface (CLI)
 
 ---
-
-
-## 📄 License
-
-This project is created for educational purposes only.
