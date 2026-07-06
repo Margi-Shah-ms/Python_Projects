@@ -1,7 +1,7 @@
 For Video Click Here: https://drive.google.com/file/d/1ZcdY-cuVP6ik-rsIXuJ1eghn3IALD_SD/view?usp=sharing 
 # 🎓 Student Data Organizer
 
-A Python-based **Student Data Organizer** that allows users to efficiently manage student records through a menu-driven interface. This project demonstrates the use of Python's core programming concepts such as **strings, lists, dictionaries, tuples, sets, mutability, immutability, type casting, and the `del` keyword**.
+A Python-based **Student Data Organizer** that allows users to efficiently manage student records through a menu-driven interface. This project demonstrates the use of Python's core programming concepts such as **strings, lists, dictionaries, tuples, sets, mutability, immutability, type casting**.
 
 ---
 
@@ -46,8 +46,6 @@ This project demonstrates the following Python concepts:
 - User Input Handling
 - Conditional Statements
 - Loops
-- Functions
-- `del` Keyword
 
 ---
 
