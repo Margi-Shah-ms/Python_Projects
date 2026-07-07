@@ -74,8 +74,8 @@ while True:
                     all_student.remove(s)
                     print("Student deleted successfully!")
                     break
-                else:
-                    print("Student ID not found!")
+            else:
+                print("Student ID not found!")
         case "5": 
             print("\n--- Display Subjects Offered ---")
             s_id = int(input("Enter ID to see subjects: "))
