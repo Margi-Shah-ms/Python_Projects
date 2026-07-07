@@ -116,8 +116,12 @@ python student_data_organizer.py
 ---
 
 ## 💻 Sample Output
-<img width="609" height="716" alt="image" src="https://github.com/user-attachments/assets/6f539529-e21e-4554-9f6a-4c2ab87c10e4" />
-<img width="393" height="585" alt="image" src="https://github.com/user-attachments/assets/eab55cf8-4de7-40a2-9504-48b1d65ec386" />
+<img width="644" height="711" alt="image" src="https://github.com/user-attachments/assets/2eb091d7-afc3-4fa5-babc-edca647ccc7e" /> 
+<img width="610" height="725" alt="image" src="https://github.com/user-attachments/assets/273fd473-78ec-4320-9e47-c8fb2e05d232" /> 
+<img width="373" height="395" alt="image" src="https://github.com/user-attachments/assets/0af9725c-ae3c-4694-a926-a97d185c76f7" />
+
+
+
 
 
 
