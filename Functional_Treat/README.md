@@ -7,7 +7,7 @@
 Functional Treat is a menu-driven Python application designed to demonstrate fundamental and intermediate programming concepts through data analysis and transformation tasks.
 The project enables users to input numerical data and perform operations such as statistical analysis, recursive calculations, filtering, sorting, and dataset summarization.
 
-The application showcases the practical implementation of Python functions, recursion, lambda expressions, global variables, and list manipulation techniques.
+The application showcases the practical implementation of Python functions, recursion, lambda expressions, and list manipulation techniques.
 
 ---
 
