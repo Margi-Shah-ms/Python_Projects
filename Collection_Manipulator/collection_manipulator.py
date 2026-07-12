@@ -74,6 +74,10 @@ while True:
                     all_student.remove(s)
                     print("Student deleted successfully!")
                     break
+<<<<<<< HEAD
+=======
+                
+>>>>>>> 2a92ccf (Added Functional Treat project and updated Collection Manipulator)
             else:
                 print("Student ID not found!")
         case "5": 
