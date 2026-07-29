@@ -1,4 +1,4 @@
-Click here for the video: https://drive.google.com/file/d/1DJmZYhd4dOb0Q5yMQWNOMXtPYkEOtEGW/view?usp=sharing
+Click here for the video: https://drive.google.com/file/d/1BieZKGu_cekrqyBFbWzPlRoT0iKicpr2/view?usp=sharing
 
 # 📔 Personal Journal Manager
 
