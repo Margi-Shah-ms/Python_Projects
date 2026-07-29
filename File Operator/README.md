@@ -134,6 +134,3 @@ Through this project, the following concepts were implemented:
 - Searching and Managing Data
 
 ---
-**Margi Shah**
-
-Built as a Python File Handling & OOP Project 🚀✨
