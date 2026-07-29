@@ -75,49 +75,42 @@ python journal_manager.py
 
 ## 🏠 Main Menu
 
-(Add Screenshot Here)
+<img width="404" height="212" alt="image" src="https://github.com/user-attachments/assets/b57975e3-0a66-4a3b-9969-0ddb6f6a8ae3" />
 
 ---
 
 ## ✍️ Add New Entry
-
-(Add Screenshot Here)
+<img width="838" height="90" alt="image" src="https://github.com/user-attachments/assets/c76f93e2-418f-4236-8965-21260aab2b52" />
 
 ---
 
 ## 📖 View All Entries
-
-(Add Screenshot Here)
+<img width="676" height="278" alt="image" src="https://github.com/user-attachments/assets/05c0818c-e337-4bf3-a063-f116d2cb677e" />
 
 ---
 
 ## 🔍 Search Entry
-
-(Add Screenshot Here)
+<img width="672" height="266" alt="image" src="https://github.com/user-attachments/assets/85f2a774-fad9-4030-b35f-f7dc99595cbe" />
 
 ---
 
 ## 🗑️ Delete All Entries
-
-(Add Screenshot Here)
+<img width="585" height="236" alt="image" src="https://github.com/user-attachments/assets/c9a68a96-10c7-4d57-a39a-a0db395b0b2f" />
 
 ---
 
 ## ⚠️ File Not Found Exception
-
-(Add Screenshot Here)
+<img width="652" height="239" alt="image" src="https://github.com/user-attachments/assets/e032d211-c542-44d4-b277-f35fdf27dd74" />
 
 ---
 
 ## ❌ Invalid Input Handling
-
-(Add Screenshot Here)
+<img width="599" height="204" alt="image" src="https://github.com/user-attachments/assets/07faf3ca-e0c8-4df5-aa69-14904cd1e2f8" />
 
 ---
 
 ## 👋 Exit
-
-(Add Screenshot Here)
+<img width="609" height="195" alt="image" src="https://github.com/user-attachments/assets/cfe435e4-b73b-40f3-a772-7d523eb4f327" />
 
 ---
 
