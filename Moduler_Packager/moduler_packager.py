@@ -32,10 +32,10 @@ while True:
                 subchoice = input("Enter your choice: ")
                 match subchoice:
                     case "1":
-                        print("\n Current Date and Time:", datetime.now().date(), datetime.now().time())
+                        print("\nCurrent Date and Time:", datetime.now().date(), datetime.now().time())
                         print("============================")
                     case "2":
-                        a = input(f"Enter the first date (YYYY-MM-DD): ")
+                        a = input(f"\nEnter the first date (YYYY-MM-DD): ")
                         b = input(f"Enter the second date (YYYY-MM-DD): ")
                         time_1 = datetime.strptime(a,"%Y-%m-%d") # convert a string into a datetime object
                         time_2 = datetime.strptime(b,"%Y-%m-%d")
@@ -43,13 +43,13 @@ while True:
                         print(f"Difference: {c.days} days")
                         print("============================")
                     case "3":
-                        user_input = input("Enter date (DD/MM/YYYY): ")
+                        user_input = input("\nEnter date (DD/MM/YYYY): ")
                         a = datetime.strptime(user_input, "%d/%m/%Y") # converts a datetime, date, or time object into a formatted string
                         formatted_date = datetime.strftime(a, "%d-%m-%Y")
                         print("Formatted Date:", formatted_date)
                         print("=============================")
                     case "4":
-                        input("Press ENTER to START...")
+                        input("\nPress ENTER to START...")
                         start_time = datetime.now()
                         input("Press ENTER to STOP...")
                         end_time = datetime.now()
@@ -58,7 +58,7 @@ while True:
                         print("Total Time:", stopwatch)
                         print("============================")
                     case "5":
-                        seconds = int(input("Enter countdown time in seconds: "))
+                        seconds = int(input("\nEnter countdown time in seconds: "))
                         while seconds >= 0:
                             mins = seconds//60
                             secs = seconds%60
@@ -82,19 +82,19 @@ while True:
                 subchoice = input("Enter your choice: ")
                 match subchoice:
                     case "1":
-                        a = int(input("Enter a number: "))
+                        a = int(input("\nEnter a number: "))
                         c = math.factorial(a)
                         print(f"Factorial: {c}")
                         print("=========================")
                     case "2":
-                        principal = int(input("Enter principal amount: "))
+                        principal = int(input("\nEnter principal amount: "))
                         rate = int(input("Enter rate of interest (in %): "))
                         time = int(input("Enter time (in years): "))
                         amount = principal * ((1 + (rate / 100)) ** time)
                         print(f"Compound Interest: {amount:.2f}")
                         print("===========================")
                     case "3":
-                        number_sin = int(input("Enter a number (Sine): "))
+                        number_sin = int(input("\nEnter a number (Sine): "))
                         number_cos = int(input("Enter a number (Cosine): "))
                         number_tan = int(input("Enter a number (Tangent): "))
                         print("Sine: ",math.sin(math.radians(number_sin)))  
@@ -140,27 +140,27 @@ while True:
                 subchoice = input("Enter your choice: ")
                 match subchoice:
                     case "1":
-                        starts = int(input("Enter First Number: "))
+                        starts = int(input("\nEnter First Number: "))
                         ends = int(input("Enter Last number: "))
                         number = random.randint(starts,ends)
                         print("Generated Random Number is: ",number)
                         print("===============================")
                     case "2":
-                        a = int(input("Enter: "))
+                        a = int(input("\nEnter: "))
                         l_ist = []
                         for i in range(a):
                             l_ist.append(random.randint(1,100))
                         print("Generated Random List: ",l_ist)
                         print("================================")                        
                     case "3":
-                        pswrd = int(input("Enter password length: "))
+                        pswrd = int(input("\nEnter password length: "))
                         chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@_"
                         a = random.choices(chars,k=pswrd)
                         b = "".join(a)
                         print("Generated Password:", b)
                         print("================================")
                     case "4":
-                        otp = int(input("Enter OTP length (e.g., 4 or 6): "))
+                        otp = int(input("\nEnter OTP length (e.g., 4 or 6): "))
                         num = "0123456789"
                         gen_otp = "".join(random.choices(num, k=otp))
                         print("Generated Random OTP:",gen_otp)
@@ -179,10 +179,10 @@ while True:
                 subchoice = input("Enter your choice: ")
                 match subchoice:
                     case "1":
-                        print("Generated UUID: ", uuid.uuid4())
+                        print("\nGenerated UUID: ", uuid.uuid4())
                         print("=============================")
                     case "2":
-                        record_name = input("Enter Record Name: ")
+                        record_name = input("\nEnter Record Name: ")
                         print(f"Record '{record_name}' linked with UUID: {uuid.uuid4()}")
                         print("=============================")
                     case "3":
@@ -201,23 +201,23 @@ while True:
                 subchoice = input("Enter your choice: ")
                 match subchoice:
                     case "1":
-                        a = input("Enter file name: ")
+                        a = input("\nEnter file name: ")
                         file_ops.create_file(a)
                         print("File created successfully!")
                         print("=========================")
                     case "2":
-                        a = input("Enter file name: ")
+                        a = input("\nEnter file name: ")
                         b = input("Enter data to write: ")
                         file_ops.write_file(a,b)
                         print("Data written successfully!")
                         print("==========================")
                     case "3":
-                        a = input("Enter file name: ")
+                        a = input("\nEnter file name: ")
                         print("File Content:")
                         print(file_ops.read_file(a))
                         print("==============================")
                     case "4":
-                        a = input("Enter file name: ")
+                        a = input("\nEnter file name: ")
                         b = input("Enter data to append: ")
                         file_ops.append_file(a,b)
                         print("File Content: ")
@@ -225,7 +225,7 @@ while True:
                     case "5":
                         break
         case "6":
-            print("Explore Module Attributes: ")
+            print("\nExplore Module Attributes: ")
             a = input("Enter module name to explore: ")
             print(f"Available Attributes {a} module:")
             print(dir(a))
