@@ -118,25 +118,31 @@ python main.py
 
 ## 🖥️ OUTPUT 
 ## Datetime:
-<img width="497" height="914" alt="image" src="https://github.com/user-attachments/assets/8181af0b-a818-487f-bdbd-100f7df6b393" />
+<img width="360" height="922" alt="image" src="https://github.com/user-attachments/assets/b42f451d-ed88-4e5d-a99f-16201447053d" />
+
 
 ## Mathematical operations:
-<img width="368" height="863" alt="image" src="https://github.com/user-attachments/assets/b162d007-2191-4941-b08c-d73ed2bd4a83" />
+<img width="385" height="890" alt="image" src="https://github.com/user-attachments/assets/f246f1bd-ba84-4d62-9a6a-507f9970a162" />
+
 
 ## Random Data Generation:
-<img width="348" height="680" alt="image" src="https://github.com/user-attachments/assets/d2f724b0-35a4-42c7-b3e0-352589bed98e" />
+<img width="473" height="725" alt="image" src="https://github.com/user-attachments/assets/0cb3940b-f86f-4fdb-baaa-187bdd1c351e" />
+
 
 ## UUID:
-<img width="477" height="473" alt="image" src="https://github.com/user-attachments/assets/246f1a8f-2c0b-4a78-ad9e-98588330995c" />
+<img width="658" height="470" alt="image" src="https://github.com/user-attachments/assets/9100698b-0c2a-4936-9a45-cf8c862c6785" />
+
 
 ## File Operations (Custom Module):
-<img width="440" height="728" alt="image" src="https://github.com/user-attachments/assets/00898274-7700-472e-bdf7-83b350f9332f" />
+<img width="427" height="862" alt="image" src="https://github.com/user-attachments/assets/0feddc89-6ab8-46ef-94f8-e88400e6407d" />
+
 
 ## dir():
-<img width="851" height="461" alt="image" src="https://github.com/user-attachments/assets/34ad4d7d-ac5b-4126-8a94-80f4310f753c" />
+<img width="1683" height="352" alt="image" src="https://github.com/user-attachments/assets/db193e1c-d747-4c14-a271-e97a774f6e16" />
+
 
 ## Exit:
-<img width="581" height="337" alt="image" src="https://github.com/user-attachments/assets/9e1b80f2-6a8a-442e-ace8-fcb747590a10" />
+<img width="521" height="268" alt="image" src="https://github.com/user-attachments/assets/9dd317ad-4f9f-4e3a-b175-1635267dc015" />
 
 
 ---
