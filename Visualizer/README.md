@@ -1,4 +1,4 @@
-video link here: 
+video link here: https://drive.google.com/file/d/183F68-zW-NM8V0LeEMzR6HSAFiAwKmUJ/view?usp=sharing
 
 # 📊 Sales Data Analyzer & Visualizer
 
@@ -21,17 +21,21 @@ A modular, interactive Python application built to streamline Exploratory Data A
   - Stack Plots
     
 - # output:
-  <img width="931" height="338" alt="image" src="https://github.com/user-attachments/assets/362ab402-624c-457e-adbb-819b979a5323" />
+  <img width="934" height="336" alt="Screenshot 2026-08-22 194241" src="https://github.com/user-attachments/assets/f181195d-2fed-415a-a399-a07b38b2fc84" />
 
-  <img width="535" height="504" alt="image" src="https://github.com/user-attachments/assets/1b006f0e-4769-43a7-a100-105646b218b4" />
+  <img width="536" height="500" alt="Screenshot 2026-08-22 194309" src="https://github.com/user-attachments/assets/01545ea8-60d9-4912-a2d5-d43837381b59" />
 
-  <img width="691" height="427" alt="image" src="https://github.com/user-attachments/assets/cddad53b-9629-4d65-9e85-f1517f869ca0" />
+ <img width="690" height="424" alt="Screenshot 2026-08-22 194340" src="https://github.com/user-attachments/assets/eb9afece-e5e2-430d-86ef-020a28295657" /> 
+ 
+ <img width="654" height="519" alt="Screenshot 2026-08-22 194430" src="https://github.com/user-attachments/assets/ea1d2447-68e9-4a25-9f04-c5e893ce4180" />
 
-  <img width="657" height="526" alt="image" src="https://github.com/user-attachments/assets/cd0363e4-0877-45a5-b71d-d6f19be3107f" />
+ <img width="618" height="302" alt="Screenshot 2026-08-22 194554" src="https://github.com/user-attachments/assets/bf618d4b-24a9-4168-88f9-3c40debf528a" />
 
-   <img width="625" height="299" alt="image" src="https://github.com/user-attachments/assets/1e28fd02-1151-48c6-89ea-94cbfa7ccfe1" />
+ <img width="612" height="309" alt="Screenshot 2026-08-22 194608" src="https://github.com/user-attachments/assets/67463b46-5167-4a72-a98c-6f9f84931d9f" />
 
-  <img width="620" height="315" alt="image" src="https://github.com/user-attachments/assets/0247d921-766c-4dec-a24e-dd9d3f6f68b3" />
+
+
+
 
 
 
