@@ -21,17 +21,20 @@ A modular, interactive Python application built to streamline Exploratory Data A
   - Stack Plots
     
 - # output:
-  <img width="934" height="336" alt="Screenshot 2026-08-22 194241" src="https://github.com/user-attachments/assets/ffa41b53-ce0e-4827-9c2d-0daacf23bd4f" />
+  <img width="931" height="338" alt="image" src="https://github.com/user-attachments/assets/362ab402-624c-457e-adbb-819b979a5323" />
 
-  <img width="536" height="500" alt="Screenshot 2026-08-22 194309" src="https://github.com/user-attachments/assets/d9e5db83-506f-4c55-9087-fbe9ad5c2ddd" />
+  <img width="535" height="504" alt="image" src="https://github.com/user-attachments/assets/1b006f0e-4769-43a7-a100-105646b218b4" />
 
-  <img width="690" height="424" alt="Screenshot 2026-08-22 194340" src="https://github.com/user-attachments/assets/70862590-fc0c-4774-b9ce-30c12759a521" />
+  <img width="691" height="427" alt="image" src="https://github.com/user-attachments/assets/cddad53b-9629-4d65-9e85-f1517f869ca0" />
 
-  <img width="654" height="519" alt="Screenshot 2026-08-22 194430" src="https://github.com/user-attachments/assets/dc57518c-fc77-41af-8568-8d79146c2ff2" />
+  <img width="657" height="526" alt="image" src="https://github.com/user-attachments/assets/cd0363e4-0877-45a5-b71d-d6f19be3107f" />
 
-  <img width="618" height="302" alt="Screenshot 2026-08-22 194554" src="https://github.com/user-attachments/assets/e3c259b4-32be-48b0-be8f-a863f2155fe2" />
+   <img width="625" height="299" alt="image" src="https://github.com/user-attachments/assets/1e28fd02-1151-48c6-89ea-94cbfa7ccfe1" />
 
-  <img width="612" height="309" alt="Screenshot 2026-08-22 194608" src="https://github.com/user-attachments/assets/67309aa6-0647-46ab-8452-e742ce76a7bf" />
+  <img width="620" height="315" alt="image" src="https://github.com/user-attachments/assets/0247d921-766c-4dec-a24e-dd9d3f6f68b3" />
+
+
+
 
 
 
